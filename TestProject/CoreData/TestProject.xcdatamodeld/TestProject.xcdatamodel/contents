@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21G83" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ArticleFavorite" representedClassName="ArticleFavorite" syncable="YES" codeGenerationType="class">
+        <attribute name="abstractFavorite" optional="YES" attributeType="String"/>
+        <attribute name="bylineFavorite" optional="YES" attributeType="String"/>
+        <attribute name="mediaFavorite" optional="YES" attributeType="String"/>
+        <attribute name="published_dateFavorite" optional="YES" attributeType="String"/>
+        <attribute name="sectionFavorite" optional="YES" attributeType="String"/>
+        <attribute name="titleFavorite" optional="YES" attributeType="String"/>
+        <attribute name="urlFavorite" optional="YES" attributeType="Binary"/>
+    </entity>
+    <elements>
+        <element name="ArticleFavorite" positionX="-54" positionY="-9" width="128" height="134"/>
+    </elements>
+</model>
